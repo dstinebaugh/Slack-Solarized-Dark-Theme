@@ -13,7 +13,7 @@ about the design work that went into it on his [project page][ES-solarized]. His
 ### Solarized Dark for Slack
 
 Solarized Dark was ported for slack by [Daniel Stinebaugh][DS] and can be
-found at <http://github.com/url-once-its-published>.
+found at <https://github.com/dstinebaugh/Slack-Solarized-Dark-Theme/>.
 
 ### Screenshots
 
@@ -32,4 +32,4 @@ _Just copy and paste the color codes into your custom sidebar theme!_
 [ES-Solarized]: http://ethanschoonover.com/solarized
 [Solarizedrepo]: https://github.com/altercation/solarized
 [DS]: http://www.stinebaugh.info
-[colorexample]: url-once-published/slack-color-references.png
+[colorexample]: https://github.com/dstinebaugh/Slack-Solarized-Dark-Theme/blob/master/slack-color-references.png
