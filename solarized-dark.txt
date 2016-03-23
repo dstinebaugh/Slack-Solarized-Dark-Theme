@@ -1,0 +1,11 @@
+Solarized Dark for Slack
+By Daniel Stinebaugh
+Using the awesome colorscheme created by Ethan Schoonover
+http://ethanschoonover.com/solarized
+
+Just copy and paste the color codes below into your sidebar theme custom settings.
+info on that here if you need help finding this setting:
+https://get.slack.help/hc/en-us/articles/205166337-Customizing-your-Slack-theme
+
+The colors!
+#002b36,#073642,#657b83,#93a1a1,#073642,#839496,#859900,#d33682
