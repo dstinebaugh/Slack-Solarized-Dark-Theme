@@ -1,7 +1,6 @@
 # Solarized for Slack
 
 ## Precision colors for machines and people - _Slack too!_
-
 ---
 
 ### Solarized
