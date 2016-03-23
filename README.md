@@ -26,9 +26,11 @@ _Just copy and paste the color codes into your custom sidebar theme!_
 #002b36,#073642,#657b83,#93a1a1,#073642,#839496,#859900,#d33682
 ```
 
+Info on where sidebar themes can be found and edited [here on slack][slackhelp]
 	
 [ES]: http://ethanschoonover.com
 [ES-Solarized]: http://ethanschoonover.com/solarized
 [Solarizedrepo]: https://github.com/altercation/solarized
 [DS]: http://www.stinebaugh.info
 [colorexample]: https://github.com/dstinebaugh/Slack-Solarized-Dark-Theme/blob/master/slack-color-references.png
+[slackhelp]: https://get.slack.help/hc/en-us/articles/205166337-Customizing-your-Slack-theme
